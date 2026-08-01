@@ -6,7 +6,7 @@
 
 import edu.princeton.cs.algs4.StdRandom;
 
-public class Randomword {
+public class RandomWord {
     public static void main(String[] args) {
         int indice = StdRandom.uniformInt(0, args.length);
         System.out.println(args[indice]);
