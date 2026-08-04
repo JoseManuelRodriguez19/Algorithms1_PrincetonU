@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CheckStyle-IDEA" serialisationVersion="2">
-    <checkstyleVersion>10.12.7</checkstyleVersion>
+    <checkstyleVersion>10.26.1</checkstyleVersion>
     <scanScope>JavaOnly</scanScope>
-    <option name="thirdPartyClasspath">
-      <option value="C:\Users\manue\OneDrive\Desktop\Proyects\Algorithms_PrincetonU_1\.lift\checkstyle-lift.jar" />
-    </option>
-    <option name="activeLocationIds">
-      <option value="a261decd-d167-43e3-b9c2-59412062a035" />
-    </option>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds" />
     <option name="locations">
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="a261decd-d167-43e3-b9c2-59412062a035" type="LOCAL_FILE" scope="All" description="Coursera Checks">
-          $PROJECT_DIR$/.lift/checkstyle-coursera.xml
-          <option name="properties">
-            <map>
-              <entry key="basedir" value="$PROJECT_DIR$" />
-              <entry key="suppressions" value="checkstyle-suppressions.xml" />
-            </map>
-          </option>
-        </ConfigurationLocation>
       </list>
     </option>
   </component>

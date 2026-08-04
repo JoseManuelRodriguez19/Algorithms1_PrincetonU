@@ -5,7 +5,7 @@ public class Percolation {
     private boolean[][] grid;
     private int openSitesCount;
     private final int size;
-    private final int Top, bottom;
+    private final int top, bottom;
     private final WeightedQuickUnionUF uf, uffFull;
 
 
@@ -17,7 +17,7 @@ public class Percolation {
         grid = new boolean[n][n];
         size = n;
         openSitesCount = 0;
-        Top = 0;
+        top = 0;
         bottom = n * n + 1;
 
         uf = new WeightedQuickUnionUF(n * n + 2);
@@ -25,14 +25,14 @@ public class Percolation {
 
     }
 
-    public void validate(int row, int col) {
+    private void validate(int row, int col) {
         if (row < 1 || row > size || col < 1 || col > size) {
             throw new IllegalArgumentException("Index out of range");
         }
     }
 
     private int xyto1D(int row, int col) {
-        return (row - 1) + size * col;
+        return (row - 1) * size + col;
     }
 
     // opens the site (row, col) if it is not open already
@@ -44,8 +44,8 @@ public class Percolation {
 
         int currentid = xyto1D(row, col);
         if (row == 1) {
-            uf.union(currentid, Top);
-            uffFull.union(currentid, Top);
+            uf.union(currentid, top);
+            uffFull.union(currentid, top);
         }
         if (row == size) {
             uf.union(currentid, bottom);
@@ -84,7 +84,7 @@ public class Percolation {
     public boolean isFull(int row, int col) {
         validate(row, col);
         int currentid = xyto1D(row, col);
-        return isOpen(row, col) && uffFull.find(currentid) == uffFull.find(Top);
+        return isOpen(row, col) && uffFull.find(currentid) == uffFull.find(top);
 
     }
 
@@ -96,7 +96,7 @@ public class Percolation {
     // does the system percolate?
     public boolean percolates() {
 
-        return uf.find(Top) == uf.find(bottom);
+        return uf.find(top) == uf.find(bottom);
     }
 
 

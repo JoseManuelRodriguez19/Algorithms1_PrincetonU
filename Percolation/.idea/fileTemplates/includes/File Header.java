@@ -1,13 +1,5 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
+ *  Name:              Alan Turing
  *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Last modified:     1/1/2019
  **************************************************************************** */
-
-package UnionFind;
-
-public class PercolationStats {
-    public static void main(String[] args) {
-
-    }
-}
