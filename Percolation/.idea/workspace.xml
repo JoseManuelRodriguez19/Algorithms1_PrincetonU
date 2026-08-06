@@ -5,64 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.noai" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/GitCommitMessageStorage.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeInsightSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/lift.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/externalDependencies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/file.template.settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/internal/Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/findbugs-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Algorithms__Part_I.xml.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/algs4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/saveactions_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms, Part I.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloGoodbye.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloGoodbye.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Percolation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Percolation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RandomWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnionFind/SuccesorWithD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UnionFind/SuccesorWithD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnionFind/UnionfindSN$Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UnionFind/UnionfindSN$Log.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnionFind/UnionfindSN$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UnionFind/UnionfindSN$UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnionFind/UnionfindSN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UnionFind/UnionfindSN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WELCOME.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algorithms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animals.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animals25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animals8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../biased-coin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dream.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../loaded-die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roshambo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tinyTale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-dice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
