@@ -1,5 +1,5 @@
 
-public class bitonic{
+public class N_inBitonic{
 
      public boolean isinbitonic(int[] nums, int target) {
 
