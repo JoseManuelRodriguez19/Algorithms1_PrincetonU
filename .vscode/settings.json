@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "Analysis_of_Algorithms",
+        "Hello",
+        "Percolation"
+    ],
+    "java.project.referencedLibraries": [
+        ".lift/algs4.jar"
+    ]
+}
