@@ -1,4 +1,4 @@
-Import java.util.Arrays;
+import java.util.Arrays;
 public class SUM3{
 
     public int counttriplets(int[] nums) {
@@ -6,8 +6,8 @@ public class SUM3{
         int Tvalid = 0;
 
         for(int i = 0; i< nums.length -2 ;i++ ){
-            j = i+1;
-            k = nums.length -1;
+            int j = i+1;
+            int k = nums.length -1;
 
                 while(j < k){
 
@@ -17,7 +17,7 @@ public class SUM3{
                         Tvalid++;
 
                         j++;
-                        K--;
+                        k--;
 
                     }else if (sum < 0){
                         j++;
