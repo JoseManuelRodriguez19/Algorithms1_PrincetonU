@@ -20,9 +20,5 @@ Below is a snapshot of the implemented structures and their theoretical limits:
 *   **Core Concepts:** Object-Oriented Programming (OOP), Asymptotic Analysis (Big O), Memory Management, Recursion, and Graph Theory.
 
 ## ⚙️ How to Run
-Clone the repository and run individual algorithm scripts via your terminal:
+Clone the repository and run individual algorithm scripts via your terminal
 
-```bash
-git clone [https://github.com/JoseManuelRodriguez19/princeton-algorithms.git](https://github.com/JoseManuelRodriguez19/princeton-algorithms.git)
-cd princeton-algorithms
-python src/merge_sort.py
